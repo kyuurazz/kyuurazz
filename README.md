@@ -1,12 +1,7 @@
 <body>
   <center>
 <h1 align="center">~ ✨ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ✨ ~</h1>
-<br>
 <div align="center">
-<a href="https://discord.com/users/532395008196739088">
-   <img src="https://lanyard.kyrie25.me/api/532395008196739088?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4"  />
-  </a>
-    <br>
   <p>𝐼𝓈𝓈𝑒 𝓃𝑜 𝓈𝑒</p>
   <p>𝒹𝑒 𝒻𝓊𝓂𝒾𝓀𝑜𝓂𝓊 𝑔𝑜𝑜𝓇𝒶𝒾𝓃</p>
   <p>𝒷𝑜𝓀𝓊𝓇𝒶 𝓌𝒶</p>
