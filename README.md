@@ -32,7 +32,7 @@
   <br>
 <p align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> <br><br>
-Saya juga suka menulis dan mendengarkan musik sampai berjam-jam, saya juga suka dengan Desain Grafis dan sedang mempelajari Graphic Design menggunakan Adobe Photoshop dan Sketch.
+I also like writing and listening to music for hours, I also like Graphic Design and am learning Graphic Design using Adobe Photoshop and Sketch.
 </p>
 <br>
 <h2 align="center"> 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
